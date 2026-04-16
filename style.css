@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+.Hero{
+    background-color: #C8DDED;
+    width: 1296px;
+    height: 550px;
+    top: 124px;
+    left: 72px;
+    opacity: 1;
+    border-radius: 56px;
+}
+.Hero__title {
+    font-family: "Google Sans", sans-serif;
+    width: 588px;
+    height: 176px;
+    top: 56px;
+    left: 40px;
+    opacity: 1;
+    font-weight: 500;
+    font-style: Bold;
+    font-size: 68px;
+    line-height: 88px;
+    letter-spacing: 0%;
+}
