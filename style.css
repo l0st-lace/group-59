@@ -7,8 +7,13 @@
     left: 72px;
     opacity: 1;
     border-radius: 56px;
+    padding-top: 20px;
+    padding-left: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
-.Hero__title {
+.Hero-title {
     font-family: "Google Sans", sans-serif;
     width: 588px;
     height: 176px;
@@ -21,3 +26,44 @@
     line-height: 88px;
     letter-spacing: 0%;
 }
+.Hero-text{
+    width: 565px;
+    height: 108px;
+    opacity: 1;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0px;
+}
+.Hero-button{
+    margin-top: 50px;
+    width: 131px;
+    height: 64px;
+    top: 420px;
+    left: 40px;
+    border-radius: 12px;
+    padding-top: 19px;
+    padding-right: 32px;
+    padding-bottom: 19px;
+    padding-left: 32px;
+    opacity: 1;
+    background: #FFFFFF;
+    cursor: pointer;
+}
+.Hero-btn-t{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+}
+.Hero-img{
+    width: 648px;
+    height: 550px;
+    left: 648px;
+    opacity: 1;
+}
+
